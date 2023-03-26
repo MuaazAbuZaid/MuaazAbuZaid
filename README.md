@@ -15,5 +15,5 @@
     You can check my following repositories:
     
     1- Data Analysis. (to see some analysis projects with streamlit app which you can inter act with).
-    2- Data Science. (to see some ML projects with streamlit app which you can inter act with).
+    2- Machine Learning. (to see some ML projects with streamlit app which you can inter act with).
     3- Certificate. (to see all certificates & courses i passed through).
