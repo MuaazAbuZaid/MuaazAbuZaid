@@ -1,4 +1,4 @@
-    <h1 align="left">Hi I'm Muaaz Abu Zaid 👋</h1>
+    ## Hi, I'm Muaaz Abu Zaid 👋
 
     I'm a passionate Junior Data Scientist seeking to boost his career in Data Science field after strong learning journey
     for more than 1 year.The learning journey covered the main concepts of Data Science like (Statistics - Web Scrapping 
