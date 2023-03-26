@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> I'm a passionate Junior Data Scientist seeking to boost his career in Data Science field after strong learning journey for more 
-    than 1 year.The learning journey covered the main concepts of Data Science like (Statistics - Web Scrapping –Data Analysis - Data Preparing 
-    - Data Visualization - ML Modeling) through applying mentioned concepts with 
+--> I'm a passionate Junior Data Scientist seeking to boost his career in Data Science field after strong learning journey
+    for more than 1 year.The learning journey covered the main concepts of Data Science like (Statistics - Web Scrapping 
+    – Data Analysis - Data Preparing - Data Visualization - ML Modeling) through applying mentioned concepts with 
     real world projects.
     
     During my learning journy, i passed through many online & offline courses from:
