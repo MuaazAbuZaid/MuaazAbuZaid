@@ -14,8 +14,8 @@ Currently, i'm a data scientist intern in Epsilon AI Company & i'm looking for n
 
 You can check my following repositories:
 
- * [Data-Analysis](https://github.com/MuaazAbuZaid/Data-Analysis.git) (to see some analysis projects with streamlit app which you can inter act with).
- * [Machine-Learning](https://github.com/MuaazAbuZaid/Machine-Learning.git) (to see some ML projects with streamlit app which you can inter act with).
+ * [Data-Analysis](https://github.com/MuaazAbuZaid/Data-Analysis.git) (to see some analysis projects with streamlit app which you can interact with).
+ * [Machine-Learning](https://github.com/MuaazAbuZaid/Machine-Learning.git) (to see some ML projects with streamlit app which you can interact with).
  * [Certificates](https://github.com/MuaazAbuZaid/Certificates.git) (to see all certificates & courses i passed through).
  
  <h3 align="left">Languages and Tools:</h3>
