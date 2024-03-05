@@ -10,7 +10,7 @@ During my learning journy, i passed through many online & offline courses from:
  * [Epsilon AI Company](https://www.epsiloneg.com/).
  * [Coursera](https://www.coursera.org/).
 
-Currently, i'm a data scientist intern in Epsilon AI Company & i'm looking for new role as a Junior Data Scientist.
+Currently, I work as a Data Scientist for Epsilon AI Company (Part-Time) & i'm looking for new Full-Time role as a Junior Data Scientist.
 
 You can check my following repositories:
 
